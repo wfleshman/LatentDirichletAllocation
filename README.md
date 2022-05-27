@@ -1,7 +1,7 @@
 
 
 ```python
-# gcc -fPIC -shared lda_gibbs.c -o lda_gibbs.so
+# gcc -fPIC -O3 -shared lda_gibbs.c -o lda_gibbs.so
 ```
 
 
